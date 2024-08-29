@@ -1,0 +1,1 @@
+The aim of these notebook is just to show my solutions to the exercises proposed by Coursera, not publishing for commercial use.
