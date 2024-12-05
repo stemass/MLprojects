@@ -1,0 +1,16 @@
+langgraph
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langsmith
+langchain-community
+langchain-core
+langchain-openai
+notebook
+pandas 
+matplotlib 
+sqlite_dataset   
+trustcall
+pydantic-ai[examples]
+pydantic-ai[all]
+ell-ai
+ell-ai[sqlite]
