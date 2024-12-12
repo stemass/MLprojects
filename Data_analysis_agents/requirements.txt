@@ -10,7 +10,3 @@ pandas
 matplotlib 
 sqlite_dataset   
 trustcall
-pydantic-ai[examples]
-pydantic-ai[all]
-ell-ai
-ell-ai[sqlite]
